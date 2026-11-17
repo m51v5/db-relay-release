@@ -1,0 +1,5 @@
+# db-relay configuration
+host: your-hostname.com
+
+# Path to cloudflared executable (required if built without embed)
+# cloudflared_path: C:\path\to\cloudflared.exe

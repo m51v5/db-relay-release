@@ -1,0 +1,8 @@
+# Release files and local config
+*.exe
+*.zip
+config.yml
+
+# Every root dot-folder, except the ones the repo needs
+/.*/
+!/.github/
